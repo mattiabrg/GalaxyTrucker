@@ -1,6 +1,7 @@
 # Prova Finale di Ingegneria del Software – A.A. 2024/2025
 Politecnico di Milano – Corso di Ingegneria del Software  
 Docente: Alessandro Margara
+Voto finale: 30/30 cum laude.
 
 ### Introduzione
 Il progetto **Galaxy Trucker** è stato sviluppato come prova finale del corso di **Ingegneria del Software (a.a 2024/2025)** presso il *Politecnico di Milano*.  
