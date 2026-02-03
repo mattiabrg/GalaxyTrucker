@@ -1,7 +1,6 @@
 # Prova Finale di Ingegneria del Software – A.A. 2024/2025
 Politecnico di Milano – Corso di Ingegneria del Software  
-Docente: Alessandro Margara
-Voto finale: 30/30 cum laude.
+Docente: Alessandro Margara – Voto finale: 30/30 cum laude
 
 ### Introduzione
 Il progetto **Galaxy Trucker** è stato sviluppato come prova finale del corso di **Ingegneria del Software (a.a 2024/2025)** presso il *Politecnico di Milano*.  
@@ -31,13 +30,13 @@ Il progetto adotta un’architettura **client–server** basata sul pattern **Mo
 ---
 
 ### Funzionalità implementate
-- ✔️ Implementazione completa del gioco **Galaxy Trucker** (livello II)  
-- ✔️ Comunicazione tramite **RMI**  
-- ✔️ Comunicazione tramite **Socket TCP/IP** 
-- ✔️ **Gestione partite multiple** sul server  
-- ✔️ **Persistenza** dello stato di gioco  
-- ✔️ **Resilienza alle disconnessioni** dei client  
-- ✔️ Interfacce **TUI** e **GUI**  
+- Implementazione completa del gioco **Galaxy Trucker** (livello II)  
+- Comunicazione tramite **RMI**  
+- Comunicazione tramite **Socket TCP/IP** 
+- **Gestione partite multiple** sul server  
+- **Persistenza** dello stato di gioco  
+- **Resilienza alle disconnessioni** dei client  
+- Interfacce **TUI** e **GUI**  
 
 ---
 
